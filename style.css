@@ -1,0 +1,12 @@
+html { 
+ scroll-behavior: smooth;
+} 
+
+#campuslife iframe { 
+border-radius: 50px;
+
+}
+
+body { 
+background-color: bisque;
+}
